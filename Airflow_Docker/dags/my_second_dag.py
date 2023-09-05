@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 
 from airflow import DAG
+from airflow.operators.python import PythonOperator
 
 default_args = {
     'owner': 'ganza_m',
@@ -19,4 +20,9 @@ with DAG(
     start_date=datetime(2023, 9, 5),
     schedule_interval='@daily'
 ) as dag:
-    pass
+    task1 = PythonOperator(
+        task_id='greet',
+        python_callable=greet
+    )
+    
+    task1
