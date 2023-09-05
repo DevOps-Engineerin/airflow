@@ -1,0 +1,17 @@
+[2023-09-05T11:28:54.335+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ganza_dag_v3.third_task scheduled__2023-09-04T00:00:00+00:00 [queued]>
+[2023-09-05T11:28:54.606+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ganza_dag_v3.third_task scheduled__2023-09-04T00:00:00+00:00 [queued]>
+[2023-09-05T11:28:54.607+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 6
+[2023-09-05T11:28:54.741+0000] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): third_task> on 2023-09-04 00:00:00+00:00
+[2023-09-05T11:28:54.749+0000] {standard_task_runner.py:57} INFO - Started process 3588 to run task
+[2023-09-05T11:28:54.761+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'ganza_dag_v3', 'third_task', 'scheduled__2023-09-04T00:00:00+00:00', '--job-id', '57', '--raw', '--subdir', 'DAGS_FOLDER/my_first_dag.py', '--cfg-path', '/tmp/tmphae_nljv']
+[2023-09-05T11:28:54.766+0000] {standard_task_runner.py:85} INFO - Job 57: Subtask third_task
+[2023-09-05T11:28:55.082+0000] {task_command.py:415} INFO - Running <TaskInstance: ganza_dag_v3.third_task scheduled__2023-09-04T00:00:00+00:00 [running]> on host 2729c554a115
+[2023-09-05T11:28:55.572+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ganza_m' AIRFLOW_CTX_DAG_ID='ganza_dag_v3' AIRFLOW_CTX_TASK_ID='third_task' AIRFLOW_CTX_EXECUTION_DATE='2023-09-04T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-09-04T00:00:00+00:00'
+[2023-09-05T11:28:55.575+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-09-05T11:28:55.576+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'echo hello, task3 here runnig after task2']
+[2023-09-05T11:28:55.614+0000] {subprocess.py:86} INFO - Output:
+[2023-09-05T11:28:55.617+0000] {subprocess.py:93} INFO - hello, task3 here runnig after task2
+[2023-09-05T11:28:55.618+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-09-05T11:28:55.799+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=ganza_dag_v3, task_id=third_task, execution_date=20230904T000000, start_date=20230905T112854, end_date=20230905T112855
+[2023-09-05T11:28:55.874+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-09-05T11:28:55.960+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check
