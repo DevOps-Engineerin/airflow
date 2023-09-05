@@ -125,10 +125,10 @@ services:
       retries: 5
       start_period: 30s
     restart: always
-    depends_on:
-      <<: *airflow-common-depends-on
-      airflow-init:
-        condition: service_healthy
+    # depends_on:
+      # <<: *airflow-common-depends-on
+      # airflow-init:
+        # condition: service_healthy
 
   airflow-scheduler:
     <<: *airflow-common
@@ -140,10 +140,10 @@ services:
       retries: 5
       start_period: 30s
     restart: always
-    depends_on:
-      <<: *airflow-common-depends-on
-      airflow-init:
-        condition: service_healthy
+    # depends_on:
+      # <<: *airflow-common-depends-on
+      # airflow-init:
+        # condition: service_healthy
 
   # airflow-worker:
     # <<: *airflow-common
@@ -178,10 +178,10 @@ services:
       retries: 5
       start_period: 30s
     restart: always
-    depends_on:
-      <<: *airflow-common-depends-on
-      airflow-init:
-        condition: service_healthy
+    # depends_on:
+      # <<: *airflow-common-depends-on
+      # airflow-init:
+        # condition: service_healthy
 
   airflow-init:
     <<: *airflow-common
