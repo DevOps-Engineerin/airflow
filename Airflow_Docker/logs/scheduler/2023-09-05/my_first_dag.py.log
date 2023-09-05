@@ -1460,3 +1460,10 @@ NameError: name 'ta' is not defined
 [2023-09-05T10:03:35.036+0000] {logging_mixin.py:151} INFO - [2023-09-05T10:03:35.036+0000] {dag.py:2907} INFO - Sync 1 DAGs
 [2023-09-05T10:03:35.078+0000] {logging_mixin.py:151} INFO - [2023-09-05T10:03:35.077+0000] {dag.py:3677} INFO - Setting next_dagrun for my_first_dag_v2 to 2023-09-05T00:00:00+00:00, run_after=2023-09-06T00:00:00+00:00
 [2023-09-05T10:03:35.107+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_first_dag.py took 0.147 seconds
+[2023-09-05T10:04:05.280+0000] {processor.py:157} INFO - Started process (PID=1282) to work on /opt/airflow/dags/my_first_dag.py
+[2023-09-05T10:04:05.284+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_first_dag.py for tasks to queue
+[2023-09-05T10:04:05.288+0000] {logging_mixin.py:151} INFO - [2023-09-05T10:04:05.286+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_first_dag.py
+[2023-09-05T10:04:05.336+0000] {processor.py:839} INFO - DAG(s) dict_keys(['my_first_dag_v2']) retrieved from /opt/airflow/dags/my_first_dag.py
+[2023-09-05T10:04:05.384+0000] {logging_mixin.py:151} INFO - [2023-09-05T10:04:05.383+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-05T10:04:05.425+0000] {logging_mixin.py:151} INFO - [2023-09-05T10:04:05.425+0000] {dag.py:3677} INFO - Setting next_dagrun for my_first_dag_v2 to 2023-09-05T00:00:00+00:00, run_after=2023-09-06T00:00:00+00:00
+[2023-09-05T10:04:05.454+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_first_dag.py took 0.196 seconds
