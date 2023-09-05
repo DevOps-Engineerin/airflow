@@ -9,10 +9,10 @@ default_args ={
 }
 
 with DAG(
-    dag_id='ganza_dag_v3',
+    dag_id='ganza_dag_v5',
     default_args=default_args,
     description='this is my first dag that we write',
-    start_date=datetime(2023, 8, 30),
+    start_date=datetime(2023, 9, 1),
     schedule_interval='@daily'
 ) as dag:
     task1 = BashOperator(
@@ -29,6 +29,13 @@ with DAG(
         task_id = 'third_task',
         bash_command="echo hello, task3 here runnig after task2"
     )
+    #Task dependency method 1
+    #task1.set_downstream(task2)
+    #task1.set_downstream(task3)
     
-    task1.set_downstream(task2)
-    task1.set_downstream(task3)
+    #Task dependency method 2
+    # task1 >> task2
+    # task1 >> task3
+    
+    #Task dependency method 3
+    task1 >> [task2, task3]
