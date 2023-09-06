@@ -1451,3 +1451,10 @@ SyntaxError: duplicate argument 'name' in function definition
 [2023-09-06T08:43:44.965+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:43:44.965+0000] {dag.py:2907} INFO - Sync 1 DAGs
 [2023-09-06T08:43:45.011+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:43:45.011+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v14 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
 [2023-09-06T08:43:45.034+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_with_taskflow_api.py took 0.144 seconds
+[2023-09-06T08:44:15.392+0000] {processor.py:157} INFO - Started process (PID=3800) to work on /opt/airflow/dags/dag_with_taskflow_api.py
+[2023-09-06T08:44:15.393+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dag_with_taskflow_api.py for tasks to queue
+[2023-09-06T08:44:15.394+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:44:15.394+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_taskflow_api.py
+[2023-09-06T08:44:15.412+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v14']) retrieved from /opt/airflow/dags/dag_with_taskflow_api.py
+[2023-09-06T08:44:15.448+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:44:15.447+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:44:15.486+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:44:15.486+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v14 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:44:15.525+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_with_taskflow_api.py took 0.140 seconds
