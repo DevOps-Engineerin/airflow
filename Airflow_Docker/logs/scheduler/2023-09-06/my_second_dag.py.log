@@ -1290,3 +1290,136 @@
 [2023-09-06T08:44:30.554+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:44:30.553+0000] {dag.py:2907} INFO - Sync 1 DAGs
 [2023-09-06T08:44:30.594+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:44:30.593+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
 [2023-09-06T08:44:30.622+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.139 seconds
+[2023-09-06T08:45:00.941+0000] {processor.py:157} INFO - Started process (PID=3838) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:45:00.942+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:45:00.943+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:45:00.943+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:45:00.958+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:45:00.991+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:45:00.991+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:45:01.019+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:45:01.018+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:45:01.037+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.100 seconds
+[2023-09-06T08:45:31.266+0000] {processor.py:157} INFO - Started process (PID=3860) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:45:31.268+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:45:31.271+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:45:31.270+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:45:31.297+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:45:31.369+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:45:31.369+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:45:31.427+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:45:31.427+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:45:31.470+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.211 seconds
+[2023-09-06T08:46:01.842+0000] {processor.py:157} INFO - Started process (PID=3882) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:46:01.844+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:46:01.845+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:46:01.845+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:46:01.860+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:46:01.890+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:46:01.890+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:46:01.914+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:46:01.914+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:46:01.942+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.107 seconds
+[2023-09-06T08:46:32.381+0000] {processor.py:157} INFO - Started process (PID=3904) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:46:32.383+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:46:32.386+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:46:32.384+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:46:32.410+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:46:32.466+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:46:32.466+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:46:32.509+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:46:32.508+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:46:32.540+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.164 seconds
+[2023-09-06T08:47:02.825+0000] {processor.py:157} INFO - Started process (PID=3926) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:47:02.826+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:47:02.827+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:47:02.826+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:47:02.840+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:47:02.878+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:47:02.878+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:47:02.917+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:47:02.917+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:47:02.944+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.124 seconds
+[2023-09-06T08:47:33.328+0000] {processor.py:157} INFO - Started process (PID=3949) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:47:33.329+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:47:33.331+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:47:33.330+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:47:33.350+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:47:33.393+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:47:33.393+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:47:33.436+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:47:33.436+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:47:33.466+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.142 seconds
+[2023-09-06T08:48:03.854+0000] {processor.py:157} INFO - Started process (PID=3972) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:48:03.856+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:48:03.859+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:48:03.857+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:48:03.886+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:48:03.952+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:48:03.951+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:48:04.000+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:48:03.999+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:48:04.019+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.176 seconds
+[2023-09-06T08:48:34.315+0000] {processor.py:157} INFO - Started process (PID=3995) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:48:34.317+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:48:34.319+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:48:34.319+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:48:34.338+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:48:34.394+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:48:34.393+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:48:34.439+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:48:34.439+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:48:34.470+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.162 seconds
+[2023-09-06T08:49:04.750+0000] {processor.py:157} INFO - Started process (PID=4017) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:49:04.751+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:49:04.753+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:49:04.752+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:49:04.773+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:49:04.828+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:49:04.828+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:49:04.881+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:49:04.880+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:49:04.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.160 seconds
+[2023-09-06T08:49:35.205+0000] {processor.py:157} INFO - Started process (PID=4039) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:49:35.208+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:49:35.211+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:49:35.210+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:49:35.226+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:49:35.262+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:49:35.262+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:49:35.289+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:49:35.289+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:49:35.310+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.114 seconds
+[2023-09-06T08:50:05.634+0000] {processor.py:157} INFO - Started process (PID=4061) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:50:05.635+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:50:05.637+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:50:05.636+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:50:05.656+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:50:05.694+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:50:05.694+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:50:05.725+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:50:05.725+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:50:05.746+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.121 seconds
+[2023-09-06T08:50:36.013+0000] {processor.py:157} INFO - Started process (PID=4083) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:50:36.016+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:50:36.018+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:50:36.017+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:50:36.051+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:50:36.106+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:50:36.106+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:50:36.150+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:50:36.150+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:50:36.182+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.179 seconds
+[2023-09-06T08:51:06.566+0000] {processor.py:157} INFO - Started process (PID=4105) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:51:06.567+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:51:06.569+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:51:06.569+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:51:06.589+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:51:06.630+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:51:06.629+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:51:06.667+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:51:06.667+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:51:06.693+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.133 seconds
+[2023-09-06T08:51:37.064+0000] {processor.py:157} INFO - Started process (PID=4126) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:51:37.066+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:51:37.067+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:51:37.067+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:51:37.088+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:51:37.152+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:51:37.152+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:51:37.202+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:51:37.202+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:51:37.244+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.189 seconds
+[2023-09-06T08:52:07.651+0000] {processor.py:157} INFO - Started process (PID=4148) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:52:07.653+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:52:07.654+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:52:07.653+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:52:07.676+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:52:07.739+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:52:07.738+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:52:07.796+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:52:07.795+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:52:07.831+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.189 seconds
+[2023-09-06T08:52:38.285+0000] {processor.py:157} INFO - Started process (PID=4171) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:52:38.287+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:52:38.288+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:52:38.288+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:52:38.312+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:52:38.377+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:52:38.377+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:52:38.432+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:52:38.431+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:52:38.479+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.204 seconds
+[2023-09-06T08:53:09.020+0000] {processor.py:157} INFO - Started process (PID=4193) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:53:09.021+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:53:09.035+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:53:09.035+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:53:09.070+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:53:09.137+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:53:09.136+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:53:09.207+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:53:09.206+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:53:09.256+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.244 seconds
+[2023-09-06T08:53:39.642+0000] {processor.py:157} INFO - Started process (PID=4215) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:53:39.645+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:53:39.646+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:53:39.646+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:53:39.669+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:53:39.724+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:53:39.724+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:53:39.784+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:53:39.784+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:53:39.819+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.188 seconds
+[2023-09-06T08:54:10.327+0000] {processor.py:157} INFO - Started process (PID=4237) to work on /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:54:10.328+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/my_second_dag.py for tasks to queue
+[2023-09-06T08:54:10.330+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:54:10.330+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:54:10.371+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ganza_dag_v13']) retrieved from /opt/airflow/dags/my_second_dag.py
+[2023-09-06T08:54:10.429+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:54:10.429+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T08:54:10.477+0000] {logging_mixin.py:151} INFO - [2023-09-06T08:54:10.477+0000] {dag.py:3677} INFO - Setting next_dagrun for ganza_dag_v13 to 2023-09-06T00:00:00+00:00, run_after=2023-09-07T00:00:00+00:00
+[2023-09-06T08:54:10.516+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/my_second_dag.py took 0.203 seconds

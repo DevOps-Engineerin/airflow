@@ -30,8 +30,6 @@ def hello_world_etl():
         print(f"hello world, My Name is {name},"
               f"and I am {age} years old!") 
         
-    #first_name = get_name()
-    #last_name = get_name()
     name = get_name()
     age = get_age()
     greet(name=name, age=age) 
