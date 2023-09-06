@@ -25,7 +25,7 @@ def get_age(ti):
 
 with DAG(
     default_args=default_args,
-    dag_id='ganza_dag_v12',
+    dag_id='ganza_dag_v13',
     description='this is my second dag that I write and the first with pythonoperator',
     start_date=datetime(2023, 9, 5),
     schedule_interval='@daily'
