@@ -18414,3 +18414,727 @@ File Path                                   PID    Runtime      # DAGs    # Erro
 /opt/airflow/dags/my_first_dag.py                                    1           0  0.28s           2023-09-06T08:53:58
 /opt/airflow/dags/my_second_dag.py                                   1           0  0.24s           2023-09-06T08:54:10
 ================================================================================
+[2023-09-06T08:54:55.037+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.19s           2023-09-06T08:54:49
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T08:54:28
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.17s           2023-09-06T08:54:40
+================================================================================
+[2023-09-06T08:55:25.418+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.19s           2023-09-06T08:55:19
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T08:54:59
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.13s           2023-09-06T08:55:11
+================================================================================
+[2023-09-06T08:55:55.969+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.25s           2023-09-06T08:55:50
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.19s           2023-09-06T08:55:29
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.18s           2023-09-06T08:55:41
+================================================================================
+[2023-09-06T08:56:26.541+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.30s           2023-09-06T08:56:20
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.23s           2023-09-06T08:56:00
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.22s           2023-09-06T08:56:12
+================================================================================
+[2023-09-06T08:56:57.171+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T08:56:51
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T08:56:30
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.24s           2023-09-06T08:56:43
+================================================================================
+[2023-09-06T08:57:03.311+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T08:57:03.316+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T08:57:27.708+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.24s           2023-09-06T08:57:21
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T08:57:01
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.23s           2023-09-06T08:57:13
+================================================================================
+[2023-09-06T08:57:58.319+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T08:57:52
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T08:57:31
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.25s           2023-09-06T08:57:44
+================================================================================
+[2023-09-06T08:58:28.902+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T08:58:22
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.21s           2023-09-06T08:58:02
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.24s           2023-09-06T08:58:14
+================================================================================
+[2023-09-06T08:58:59.428+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.21s           2023-09-06T08:58:53
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T08:58:33
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.19s           2023-09-06T08:58:45
+================================================================================
+[2023-09-06T08:59:29.893+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T08:59:23
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.15s           2023-09-06T08:59:03
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.13s           2023-09-06T08:59:15
+================================================================================
+[2023-09-06T09:00:00.376+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T08:59:54
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T08:59:34
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.23s           2023-09-06T08:59:46
+================================================================================
+[2023-09-06T09:00:30.918+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.21s           2023-09-06T09:00:03
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T09:00:04
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.25s           2023-09-06T09:00:16
+================================================================================
+[2023-09-06T09:01:01.489+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T09:00:34
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:00:35
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.29s           2023-09-06T09:00:47
+================================================================================
+[2023-09-06T09:01:32.199+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.34s           2023-09-06T09:01:04
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.30s           2023-09-06T09:01:06
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.32s           2023-09-06T09:01:18
+================================================================================
+[2023-09-06T09:02:02.996+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.26s           2023-09-06T09:01:35
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.37s           2023-09-06T09:01:36
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.34s           2023-09-06T09:01:48
+================================================================================
+[2023-09-06T09:02:04.000+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T09:02:04.003+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T09:02:33.516+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.25s           2023-09-06T09:02:06
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.26s           2023-09-06T09:02:07
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.30s           2023-09-06T09:02:19
+================================================================================
+[2023-09-06T09:03:04.048+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.19s           2023-09-06T09:02:36
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.32s           2023-09-06T09:02:37
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.35s           2023-09-06T09:02:50
+================================================================================
+[2023-09-06T09:03:34.508+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.20s           2023-09-06T09:03:07
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T09:03:08
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.26s           2023-09-06T09:03:20
+================================================================================
+[2023-09-06T09:04:05.122+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.30s           2023-09-06T09:03:37
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.17s           2023-09-06T09:03:38
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.19s           2023-09-06T09:03:51
+================================================================================
+[2023-09-06T09:04:35.636+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:04:08
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.21s           2023-09-06T09:04:09
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.16s           2023-09-06T09:04:21
+================================================================================
+[2023-09-06T09:05:06.135+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:04:38
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.27s           2023-09-06T09:04:39
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.22s           2023-09-06T09:04:52
+================================================================================
+[2023-09-06T09:05:36.588+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.19s           2023-09-06T09:05:09
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:05:10
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.32s           2023-09-06T09:05:22
+================================================================================
+[2023-09-06T09:06:07.018+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:05:39
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:05:40
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.22s           2023-09-06T09:05:53
+================================================================================
+[2023-09-06T09:06:37.741+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.31s           2023-09-06T09:06:10
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.32s           2023-09-06T09:06:11
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.26s           2023-09-06T09:06:23
+================================================================================
+[2023-09-06T09:07:04.164+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T09:07:04.167+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T09:07:08.201+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.20s           2023-09-06T09:06:40
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:06:42
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.26s           2023-09-06T09:06:54
+================================================================================
+[2023-09-06T09:07:38.847+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.25s           2023-09-06T09:07:11
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.23s           2023-09-06T09:07:12
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.20s           2023-09-06T09:07:24
+================================================================================
+[2023-09-06T09:08:09.306+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.21s           2023-09-06T09:07:42
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:07:43
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.28s           2023-09-06T09:07:55
+================================================================================
+[2023-09-06T09:08:39.715+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T09:08:12
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.19s           2023-09-06T09:08:13
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.20s           2023-09-06T09:08:25
+================================================================================
+[2023-09-06T09:09:10.121+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.24s           2023-09-06T09:08:42
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.18s           2023-09-06T09:08:43
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.26s           2023-09-06T09:08:56
+================================================================================
+[2023-09-06T09:09:40.484+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.16s           2023-09-06T09:09:13
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.25s           2023-09-06T09:09:14
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.16s           2023-09-06T09:09:26
+================================================================================
+[2023-09-06T09:10:11.085+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.21s           2023-09-06T09:09:43
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T09:09:44
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.35s           2023-09-06T09:09:57
+================================================================================
+[2023-09-06T09:10:41.446+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:10:14
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T09:10:15
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.31s           2023-09-06T09:10:27
+================================================================================
+[2023-09-06T09:11:12.024+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.19s           2023-09-06T09:10:44
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:10:45
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.23s           2023-09-06T09:10:57
+================================================================================
+[2023-09-06T09:11:42.493+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.20s           2023-09-06T09:11:15
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:11:16
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.21s           2023-09-06T09:11:28
+================================================================================
+[2023-09-06T09:12:04.932+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T09:12:04.941+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T09:12:13.045+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.19s           2023-09-06T09:11:45
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:11:46
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.27s           2023-09-06T09:11:59
+================================================================================
+[2023-09-06T09:12:43.589+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:12:16
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:12:17
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.16s           2023-09-06T09:12:29
+================================================================================
+[2023-09-06T09:13:14.146+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.33s           2023-09-06T09:12:46
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.31s           2023-09-06T09:12:47
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.18s           2023-09-06T09:13:00
+================================================================================
+[2023-09-06T09:13:44.795+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.18s           2023-09-06T09:13:17
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.25s           2023-09-06T09:13:18
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.21s           2023-09-06T09:13:30
+================================================================================
+[2023-09-06T09:14:15.312+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.23s           2023-09-06T09:13:48
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.21s           2023-09-06T09:13:49
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.22s           2023-09-06T09:14:01
+================================================================================
+[2023-09-06T09:14:45.743+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:14:18
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:14:19
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.21s           2023-09-06T09:14:31
+================================================================================
+[2023-09-06T09:15:16.306+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.24s           2023-09-06T09:14:49
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.18s           2023-09-06T09:14:50
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.24s           2023-09-06T09:15:02
+================================================================================
+[2023-09-06T09:15:46.857+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.20s           2023-09-06T09:15:19
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.18s           2023-09-06T09:15:20
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:15:32
+================================================================================
+[2023-09-06T09:16:17.241+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:15:50
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.12s           2023-09-06T09:15:51
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:16:03
+================================================================================
+[2023-09-06T09:16:47.688+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:16:20
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T09:16:21
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:16:33
+================================================================================
+[2023-09-06T09:17:04.974+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T09:17:04.982+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T09:17:18.103+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.20s           2023-09-06T09:16:50
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.13s           2023-09-06T09:16:51
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.13s           2023-09-06T09:17:03
+================================================================================
+[2023-09-06T09:17:48.462+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:17:21
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.12s           2023-09-06T09:17:22
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:17:34
+================================================================================
+[2023-09-06T09:18:18.856+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.13s           2023-09-06T09:17:51
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.12s           2023-09-06T09:17:52
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:18:04
+================================================================================
+[2023-09-06T09:18:49.268+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.14s           2023-09-06T09:18:22
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.12s           2023-09-06T09:18:23
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:18:35
+================================================================================
+[2023-09-06T09:19:19.658+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.13s           2023-09-06T09:18:52
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.12s           2023-09-06T09:18:53
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:19:05
+================================================================================
+[2023-09-06T09:19:50.101+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.14s           2023-09-06T09:19:22
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:19:23
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:19:36
+================================================================================
+[2023-09-06T09:20:20.508+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.14s           2023-09-06T09:19:53
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:19:54
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.11s           2023-09-06T09:20:06
+================================================================================
+[2023-09-06T09:20:50.951+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:20:23
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.18s           2023-09-06T09:20:24
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.12s           2023-09-06T09:20:36
+================================================================================
+[2023-09-06T09:21:21.422+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.14s           2023-09-06T09:20:54
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.22s           2023-09-06T09:20:55
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:21:07
+================================================================================
+[2023-09-06T09:21:51.813+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.14s           2023-09-06T09:21:24
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T09:21:25
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:21:37
+================================================================================
+[2023-09-06T09:22:05.067+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T09:22:05.074+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T09:22:22.254+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:21:54
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.13s           2023-09-06T09:21:56
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:22:08
+================================================================================
+[2023-09-06T09:22:52.667+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:22:25
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.15s           2023-09-06T09:22:26
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.15s           2023-09-06T09:22:38
+================================================================================
+[2023-09-06T09:23:23.088+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.15s           2023-09-06T09:22:55
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T09:22:56
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.14s           2023-09-06T09:23:09
+================================================================================
+[2023-09-06T09:23:53.551+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:23:26
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:23:27
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.18s           2023-09-06T09:23:39
+================================================================================
+[2023-09-06T09:24:23.921+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.43s           2023-09-06T09:24:22
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.20s           2023-09-06T09:23:57
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.16s           2023-09-06T09:24:10
+================================================================================
+[2023-09-06T09:24:54.819+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           0           1  0.08s           2023-09-06T09:24:53
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.23s           2023-09-06T09:24:28
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.13s           2023-09-06T09:24:40
+================================================================================
+[2023-09-06T09:25:24.837+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           0           1  0.15s           2023-09-06T09:25:21
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.16s           2023-09-06T09:24:59
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.20s           2023-09-06T09:25:11
+================================================================================
+[2023-09-06T09:25:55.075+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           0           1  0.10s           2023-09-06T09:25:52
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.30s           2023-09-06T09:25:30
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.17s           2023-09-06T09:25:42
+================================================================================
+[2023-09-06T09:26:25.766+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.27s           2023-09-06T09:26:02
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.21s           2023-09-06T09:26:00
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.36s           2023-09-06T09:26:12
+================================================================================
+[2023-09-06T09:26:56.251+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           0           1  0.07s           2023-09-06T09:26:55
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T09:26:30
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.18s           2023-09-06T09:26:43
+================================================================================
+[2023-09-06T09:27:05.407+0000] {manager.py:760} INFO - Searching for files in /opt/airflow/dags
+[2023-09-06T09:27:05.419+0000] {manager.py:763} INFO - There are 3 files in /opt/airflow/dags
+[2023-09-06T09:27:26.677+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.18s           2023-09-06T09:26:59
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.13s           2023-09-06T09:27:01
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.18s           2023-09-06T09:27:13
+================================================================================
+[2023-09-06T09:27:57.350+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.22s           2023-09-06T09:27:29
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.28s           2023-09-06T09:27:32
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.25s           2023-09-06T09:27:44
+================================================================================
+[2023-09-06T09:28:27.634+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.37s           2023-09-06T09:28:25
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.26s           2023-09-06T09:28:02
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.19s           2023-09-06T09:28:14
+================================================================================
+[2023-09-06T09:28:57.648+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.27s           2023-09-06T09:28:56
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.13s           2023-09-06T09:28:32
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.17s           2023-09-06T09:28:45
+================================================================================
+[2023-09-06T09:29:28.075+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.17s           2023-09-06T09:29:18
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.14s           2023-09-06T09:29:03
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.15s           2023-09-06T09:29:15
+================================================================================
+[2023-09-06T09:29:58.187+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.62s           2023-09-06T09:29:54
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.37s           2023-09-06T09:29:34
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.17s           2023-09-06T09:29:46
+================================================================================
+[2023-09-06T09:30:28.226+0000] {manager.py:888} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_with_taskflow_api.py                           1           0  0.21s           2023-09-06T09:30:24
+/opt/airflow/dags/my_first_dag.py                                    1           0  0.18s           2023-09-06T09:30:04
+/opt/airflow/dags/my_second_dag.py                                   1           0  0.19s           2023-09-06T09:30:17
+================================================================================
