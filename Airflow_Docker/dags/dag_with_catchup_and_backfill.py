@@ -18,6 +18,6 @@ with DAG(
 ) as dag:
     task1 = BashOperator(
         task_id='task1',
-        bash_command='echo "hello world, My Name is gmx the DJ, and I am 20 years old!"'
+        bash_command='echo "hello world, My Name is gmx the DJ, and I am 20 years old! from KGL"'
     )
     
