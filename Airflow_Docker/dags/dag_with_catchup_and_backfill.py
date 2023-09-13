@@ -8,7 +8,7 @@ default_args = {
     'retries': 5,
     'retry_delay': timedelta(minutes=5)
 }
-#
+# running the dag
 with DAG(
     dag_id='ganza_dag_catchup_backfill_v18',
     default_args=default_args,
