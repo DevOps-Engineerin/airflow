@@ -1,2 +1,2 @@
 Airflow local installation
-WITH DOCKER
+WITH DOCKER.
